@@ -1,5 +1,5 @@
 {
-  "name": "react-scroll-pagination",
+  "name": "@majioa/react-scroll-pagination",
   "version": "0.2.0",
   "description": "A component for pagination with scrolling",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codingfishman/react-scroll-pagination.git"
+    "url": "git+https://github.com/majioa/react-scroll-pagination.git"
   },
   "keywords": [
     "react",
