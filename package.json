@@ -1,6 +1,6 @@
 {
   "name": "@majioa/react-scroll-pagination",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A component for pagination with scrolling",
   "main": "dist/index.js",
   "scripts": {
